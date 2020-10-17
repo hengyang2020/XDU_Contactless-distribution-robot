@@ -13,6 +13,7 @@ This application is designed to show how to develop an **Contactless Delivery Ro
 ### **Function**
 
 - **Human body inducing** (it will activate the system through the induction of human body )
+
 ![](C:\Users\Administrator\Desktop\XDU_Contactless-distribution-robot\doc\sr501.jpg)
 
 - **Ultrasonic ranging and obstacle avoiding**
