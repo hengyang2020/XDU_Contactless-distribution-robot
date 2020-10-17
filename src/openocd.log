@@ -1,0 +1,12 @@
+Warn : deprecated option: -p/--pipe. Use '-c "gdb_port pipe; log_output openocd.log"' instead.
+Info : only one transport option; autoselect 'jtag'
+adapter speed: 7500 kHz
+Warn : Transport "jtag" was already selected
+Warn : Using DEPRECATED interface driver 'ft2232'
+Info : Consider using the 'ftdi' interface driver, with configuration files in interface/ftdi/...
+Warn : Unable to open FTDI Device tried: 'Digilent USB Device' and 'Digilent USB Device A'
+Error: unable to open ftdi device: device not found
+Runtime Error: C:/arc_gnu/share/openocd/scripts/board/snps_em_sk.cfg:51: 
+in procedure 'script' 
+at file "embedded:startup.tcl", line 58
+in procedure 'init' called at file "C:/arc_gnu/share/openocd/scripts/board/snps_em_sk.cfg", line 51
